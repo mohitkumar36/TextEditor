@@ -1,0 +1,110 @@
+Mohit Kumar
+mohittkumar036@gmail.com | +919060555357 | LinkedIn : https://www.linkedin.com/in/mohit-kumar-41985b229/
+
+*********************************************************************************************************************
+
+EDUCATION:
+
+HALDIA INSTITUTE OF
+TECHNOLOGY
+B.Tech in Computer Science
+and Engineering
+Current CGPA: 8.98 / 10
+Expected Graduation: Aug 2023
+
+CHINMAYA
+VIDHYALAYA
+Higher Secondary School
+Percentage: 89.6
+Intermediate: 2019
+
+*********************************************************************************************************************
+
+LINKS:
+
+•Twitter: https://www.linkedin.com/in/mohit-kumar-41985b229/
+•LeetCode: https://twitter.com/kumarmohit036
+•HackerRank: https://leetcode.com/mohitkumar36/
+•Github: https://github.com/mohitkumar36
+
+*********************************************************************************************************************
+
+COURSEWORK:
+
+UNDERGRADUATE
+•Database Management Systems
+•Operating Systems
+•Artificial Intelligence
+•Functional Programming
+•Unix Tools and Scripting
+
+*********************************************************************************************************************
+
+SKILLS:
+
+PROGRAMMING:
+Python • C++
+Scilab • Shell
+SQL
+
+FAMILIAR IDE'S:
+Pycharm • VSCode
+Eclipse • Shell
+
+LANGUAGES:
+English
+• Professional Working Proficiency
+Hindi
+• Native or Bilingual Proficiency
+
+*********************************************************************************************************************
+
+
+PROJECTS:
+
+AUTOMATEIT | github: https://github.com/mohitkumar36/AutomateIT.git
+Python script to automate Instagram texts.
+• Sends a particulartext to multiple users of your choice at the same time.
+• Uses Selenium(an open-source tool that automates web browsers) and
+webdriver-manager.
+
+
+CALCULATOR | github: https://github.com/mohitkumar36/CalculatorMaterialUI.git
+Calculator based on Google's Material UI theme.
+• Front-end of the application is created using PyQt6.
+• Back-end of the program is python3.
+• Created using pyinstaller.
+• Uses efficient custom made algorithms.
+
+
+FINDFACE | github: https://github.com/mohitkumar36/FindFace.git
+OpenCV based script to detect human face.
+• Python3 script.
+• Uses OpenCV open-source lib.
+• Works on the Viola-Jones algorithm.
+
+
+FLAMES | github:  https://github.com/mohitkumar36/Flames.git
+Application to find FLAMES.
+• Created using pyinstaller.
+• Uses the most common GUI interface Tkinter.
+• Has a very fast and efficient algorithm.
+• Uses an attractive UI and color scheme.
+
+
+YOUTUBEDOWNLOADER | github: https://github.com/mohitkumar36/YoutubeDownloader.git
+Application to download YouTube video using video URL.
+• Created using pyinstaller.
+• Uses the most common GUI interface Tkinter.
+• Gives userthe choice of video quality.
+• Uses an attractive UI and color scheme.
+
+*********************************************************************************************************************
+
+
+ACHIEVEMENTS:
+• 1,549 Highest Contestrating in LeetCode(Among top 30 percent)
+• Over 300 questions solved on LeetCode
+• 5 Star in Problem Solving HackerRank
+• 5 Star in Python HackerRank
+• Qualified the firstround of InfyTQ certification
