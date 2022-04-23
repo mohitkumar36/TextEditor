@@ -1,6 +1,7 @@
 # TextEditor
  Notepad built in Qt with basic funtionality.
- ![image](https://user-images.githubusercontent.com/57846872/164889494-bc4c622b-5e1d-4534-90fb-b098ccdf7911.png)
+ 
+ <img src="https://user-images.githubusercontent.com/57846872/164889494-bc4c622b-5e1d-4534-90fb-b098ccdf7911.png" width="450" height="400">
 
 * **You can find the exe file of the application in the release folder.**
 * This Notepad application gives power to :
